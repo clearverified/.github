@@ -1,1 +1,1 @@
-# Welcome to CLEAR Developer Experience
+# Powered by CLEAR
