@@ -1,1 +1,1 @@
-### _Powered by_ CLEAR 💙
+### CLEAR 💙 Developers
