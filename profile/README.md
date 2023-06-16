@@ -1,1 +1,1 @@
-### Welcome to _Powered by_ CLEAR 💙
+### _Powered by_ CLEAR 💙
