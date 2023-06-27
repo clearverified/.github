@@ -6,9 +6,10 @@
 
 #### SDKs
 CLEAR supports integration via mobile web browsers, native iOS apps, and native Android apps. CLEAR Docs (provided upon partnership approval) outline implementation steps in detail. We’ve hosted our two native SDKs here, for ease-of-access.
-iOS SDK (Swift) <link>
-Android SDK (Kotlin) <link>
+
+- [iOS SDK (Swift)](https://github.com/clearsecureidentity/clear-ios-sdk)
+- [Android SDK (Kotlin)](https://github.com/clearsecureidentity/clear-android-sdk)
 
 <details>
-<summary>#### FAQs</summary>
+<summary>FAQs</summary>
 </details>
