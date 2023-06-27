@@ -11,9 +11,9 @@ CLEAR supports integration via mobile web browsers, native iOS apps, and native 
 
 #### 🤔&nbsp; Other Resources 
 
-Test
+
 <details>
 <summary>
-  Frequently Asked Questions (FAQs)
+  - Frequently Asked Questions (FAQs)
 </summary>
 </details>
