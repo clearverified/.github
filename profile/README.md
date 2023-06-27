@@ -3,3 +3,12 @@
 
 
 **CLEAR  💙  Developers.** We value the role that developers play as dreamers and builders of our collective future. What’s more – we extend our data security prowess on your behalf; the Powered by CLEAR platform respects user consent, allows you to simulate identities outside your personal context and provides end-to-end transparency into the way data is acquired, verified and shared. Welcome aboard!
+
+#### SDKs
+CLEAR supports integration via mobile web browsers, native iOS apps, and native Android apps. CLEAR Docs (provided upon partnership approval) outline implementation steps in detail. We’ve hosted our two native SDKs here, for ease-of-access.
+iOS SDK (Swift) <link>
+Android SDK (Kotlin) <link>
+
+<details>
+<summary>#### FAQs</summary>
+</details>
