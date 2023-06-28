@@ -1,5 +1,5 @@
 ### Your App. _Powered by_ CLEAR.
-![cleargh3](https://github.com/poweredbyclear/.github/assets/111535748/84dfc257-01f3-4207-a1db-502177951267)
+![cleargh4](https://github.com/poweredbyclear/.github/assets/111535748/e024a961-5ddf-4c6f-b064-64e027db1b22)
 
 
 #### CLEAR&nbsp; 💙 &nbsp;Developers.
