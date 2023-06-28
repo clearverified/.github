@@ -1,5 +1,5 @@
 ### Your App. _Powered by_ CLEAR.
-![cleargh1](https://github.com/poweredbyclear/.github/assets/111535748/3e4de931-0e40-489c-999f-2ef44cd10745)
+![cleargh2](https://github.com/poweredbyclear/.github/assets/111535748/8e0f5070-7b3c-4556-a48b-7e41445706e3)
 
 #### CLEAR&nbsp; 💙 &nbsp;Developers.
 Developers hold a vital role as visionaries and creators of future digital transformation. At CLEAR, we leverage our expertise to safeguard your data security for you and your customers. Our **_Powered by_ CLEAR** platform respects user consent, empowers you to simulate identities beyond your personal context, and offers full transparency throughout the data sharing and verification process. Welcome aboard!
