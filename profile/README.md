@@ -1,4 +1,3 @@
-### Your App. _Powered by_ CLEAR.
 ![CLEAR-GH-Banner-Top](https://github.com/poweredbyclear/.github/assets/111535748/d170b127-0838-4c76-af68-166e0690c7f3)
 
 
