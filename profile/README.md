@@ -1,3 +1,5 @@
+### Your App. Powered by CLEAR.
+
 ![CLEAR-GH-Banner-Top](https://github.com/poweredbyclear/.github/assets/111535748/d170b127-0838-4c76-af68-166e0690c7f3)
 
 
@@ -18,10 +20,10 @@ CLEAR supports integration via mobile web browsers, native iOS apps, and native 
 </summary>
 </details>
 
-![cleargh4](https://github.com/poweredbyclear/.github/assets/111535748/e024a961-5ddf-4c6f-b064-64e027db1b22)
-
 #### 🤔&nbsp; Other Resources 
 - [Clearme.com](https://www.clearme.com/solutions-powered-by-clear) -> Discover how CLEAR can power your business.
 - Console (approval required). Admin panel for Powered by CLEAR customers. 
 - Docs (approval required). Learn how to build with CLEAR.
-- [Twitter](https://twitter.com/CLEAR) -> Engage with CLEAR online. 
+- [Twitter](https://twitter.com/CLEAR) -> Engage with CLEAR online.
+
+![cleargh4](https://github.com/poweredbyclear/.github/assets/111535748/e024a961-5ddf-4c6f-b064-64e027db1b22)
