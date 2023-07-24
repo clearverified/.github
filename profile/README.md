@@ -22,6 +22,9 @@ CLEAR supports integration via mobile web browsers, native iOS apps, and native 
 
 ![cleargh4](https://github.com/poweredbyclear/.github/assets/111535748/e024a961-5ddf-4c6f-b064-64e027db1b22)
 
+#### ⚖️&nbsp;Terms & Conditions
+By cloning or forking code from Powered by CLEAR repositories, you agree to CLEAR's [Terms of Use](https://www.clearme.com/terms-of-use) and [Privacy Policy](https://www.clearme.com/privacy-policy). 
+
 #### 🤔&nbsp; Other Resources 
 - [Clearme.com](https://www.clearme.com/solutions-powered-by-clear) -> Discover how CLEAR can power your business.
 - Console (approval required). Admin panel for Powered by CLEAR customers. 
